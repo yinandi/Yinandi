@@ -1,8 +1,7 @@
 <h3 align="center">Hi there 👋 </h3>
 
 - 💼I'm a Software Engineer and Frontend Developer 
-- 💻 I work with: `Figma`, `HTML`, `CSS`, `Javascript` and `React`
-- 🌱 I’m currently learning MERN stack
+- 💻 I work with: `HTML`, `CSS`, `Javascript` and `React`
 - 📫 Reach me: <a href="https://linkedin.com/in/yinandi" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" alt="Yinandi-Linkedin" width="20"/></a>
 
 - **Languages and Tools:**
